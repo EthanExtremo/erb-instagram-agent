@@ -1,0 +1,2 @@
+# /ig-viral — pesquisa de referências e tendências
+Identifique nicho, público, tema e objetivo. Pesquise exemplos recentes em fontes públicas quando houver navegação e cite links/datas. Separe observações de hipóteses: formato, gancho, ritmo, narrativa, edição e CTA. Explique por que o padrão pode funcionar e proponha adaptações originais. Não afirme viralização sem evidência; não faça scraping, login ou cópia de conteúdo.
